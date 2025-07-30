@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import { FaHome } from "react-icons/fa";
 import { IoInformationCircle } from "react-icons/io5";
 import { BsFillTelephoneFill } from "react-icons/bs";
-import logo from '../../src/logo-removebg-preview.png';
+import logo from '../../src/bash_logo.png';
 import { IoMdSunny } from "react-icons/io";
 import { IoMdMoon } from "react-icons/io";
 import { MdMenu } from "react-icons/md";

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bash-portfolio/static/css/main.f8e8cbd8.css",
+    "main.js": "/bash-portfolio/static/js/main.310e2cde.js",
+    "static/js/453.bee24323.chunk.js": "/bash-portfolio/static/js/453.bee24323.chunk.js",
+    "static/media/gstcard.png": "/bash-portfolio/static/media/gstcard.f1705842cff7cbfd84d7.png",
+    "static/media/my_image.jpg": "/bash-portfolio/static/media/my_image.7d92b1c512d29aaa1b1c.jpg",
+    "static/media/logo-removebg-preview.png": "/bash-portfolio/static/media/logo-removebg-preview.e2b11dc7b9cee5b0f142.png",
+    "static/media/css.png": "/bash-portfolio/static/media/css.d52d082c8c0d861884da.png",
+    "static/media/react (2).png": "/bash-portfolio/static/media/react (2).3ce915cd76fbca96c3d8.png",
+    "static/media/azure.png": "/bash-portfolio/static/media/azure.d5d5a943da8be7419394.png",
+    "static/media/js.png": "/bash-portfolio/static/media/js.8fb4b200a092d619f03e.png",
+    "static/media/mongo.png": "/bash-portfolio/static/media/mongo.8280d6080531d46ae4b9.png",
+    "static/media/html.png": "/bash-portfolio/static/media/html.fc3fb206392d23687049.png",
+    "static/media/jquery.png": "/bash-portfolio/static/media/jquery.dd9126f0795ca91213fb.png",
+    "static/media/git (2).png": "/bash-portfolio/static/media/git (2).eac7d43dbb546d49dd42.png",
+    "static/media/php.png": "/bash-portfolio/static/media/php.34dc2eb03a5c2b6bd1a9.png",
+    "static/media/mysql.png": "/bash-portfolio/static/media/mysql.c2fba5ffea1779d73a82.png",
+    "static/media/docker.png": "/bash-portfolio/static/media/docker.66477bb116bf34b41786.png",
+    "index.html": "/bash-portfolio/index.html",
+    "main.f8e8cbd8.css.map": "/bash-portfolio/static/css/main.f8e8cbd8.css.map",
+    "main.310e2cde.js.map": "/bash-portfolio/static/js/main.310e2cde.js.map",
+    "453.bee24323.chunk.js.map": "/bash-portfolio/static/js/453.bee24323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e8cbd8.css",
+    "static/js/main.310e2cde.js"
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/bash-portfolio/static/css/main.f8e8cbd8.css",
-    "main.js": "/bash-portfolio/static/js/main.310e2cde.js",
+    "main.js": "/bash-portfolio/static/js/main.2fc773e1.js",
     "static/js/453.bee24323.chunk.js": "/bash-portfolio/static/js/453.bee24323.chunk.js",
     "static/media/gstcard.png": "/bash-portfolio/static/media/gstcard.f1705842cff7cbfd84d7.png",
+    "static/media/bash_logo.png": "/bash-portfolio/static/media/bash_logo.4c82e602c4058d96750f.png",
     "static/media/my_image.jpg": "/bash-portfolio/static/media/my_image.7d92b1c512d29aaa1b1c.jpg",
-    "static/media/logo-removebg-preview.png": "/bash-portfolio/static/media/logo-removebg-preview.e2b11dc7b9cee5b0f142.png",
     "static/media/css.png": "/bash-portfolio/static/media/css.d52d082c8c0d861884da.png",
     "static/media/react (2).png": "/bash-portfolio/static/media/react (2).3ce915cd76fbca96c3d8.png",
     "static/media/azure.png": "/bash-portfolio/static/media/azure.d5d5a943da8be7419394.png",
@@ -19,11 +19,11 @@
     "static/media/docker.png": "/bash-portfolio/static/media/docker.66477bb116bf34b41786.png",
     "index.html": "/bash-portfolio/index.html",
     "main.f8e8cbd8.css.map": "/bash-portfolio/static/css/main.f8e8cbd8.css.map",
-    "main.310e2cde.js.map": "/bash-portfolio/static/js/main.310e2cde.js.map",
+    "main.2fc773e1.js.map": "/bash-portfolio/static/js/main.2fc773e1.js.map",
     "453.bee24323.chunk.js.map": "/bash-portfolio/static/js/453.bee24323.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8e8cbd8.css",
-    "static/js/main.310e2cde.js"
+    "static/js/main.2fc773e1.js"
   ]
 }

@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+html, body {
+  overscroll-behavior: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
 
 .App-logo {
   height: 40vmin;
@@ -28,6 +34,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +43,19 @@
     transform: rotate(360deg);
   }
 }
+
+@keyframes twinkle {
+  0%,100% {opacity: 0.3;}
+  50% {opacity: 1;}
+}
+
+.clip-diagonal {
+  clip-path: polygon(0 10%, 100% 0, 100% 100%, 0% 100%);
+}
+
+.clip-wave {
+  
+   clip-path: polygon(0 0, 75% 5%, 100% 2%, 100% 100%, 0 100%);
+}
+
+
